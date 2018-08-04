@@ -1,5 +1,5 @@
 {
-  "name": "vim-agda",
+  "name": "agda",
   "description": "agda support for SpaceVim",
   "author": "wsdjeg"
 }

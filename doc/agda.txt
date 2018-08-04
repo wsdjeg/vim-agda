@@ -1,0 +1,14 @@
+*agda.txt*	agda support for SpaceVim
+wsdjeg                                                                  *agda*
+
+==============================================================================
+CONTENTS                                                       *agda-contents*
+  1. Introduction.................................................|agda-intro|
+
+==============================================================================
+INTRODUCTION                                                      *agda-intro*
+
+This is a very basic vim plugin for agda support in SpaceVim
+
+
+vim:tw=78:ts=8:ft=help:norl:
